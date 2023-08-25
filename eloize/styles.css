@@ -1,0 +1,32 @@
+.primeiro {
+    width: 1870px;
+height: 136px;
+flex-shrink: 0;
+background: #A30350;
+margin: 10px;
+   
+}
+.segundo{
+    width: 550px;
+    height: 691px;
+    flex-shrink: 0;
+background: #A30350;
+margin: 10px;
+display: inline-block; 
+
+}
+.terceiro{
+    width: 1295px;
+height: 691px;
+flex-shrink: 0;
+background: #A30350;
+margin: 10px;
+display:inline-block;
+}
+.quarto{
+    width: 1870px;
+height: 36px;
+flex-shrink: 0;
+background: #A30350;
+margin: 10px;
+}
